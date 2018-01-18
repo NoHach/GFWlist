@@ -1,2 +1,2 @@
-# GFWlist
-你懂的。。。
+＃GFWlist
+使用switchOmega时需要的list
